@@ -10,18 +10,23 @@
   grid-auto-columns: 30px;
   grid-auto-rows: 30px;
   width: 100vw;
-  height: auto;
+  height: 900px;
   background: #000000;
   color: white;
   overflow-x: hidden;
   font-family: pixelFont2;
-  /* z-index: 0; */
+  z-index: 0;
+  position: relative;
 }
 
 .box {
   display: flex;
   background: #341174;
 }
+/* .box:hover {
+  transition: all 0.1s;
+  background: #4300fb;
+} */
 .box h3 {
   margin: auto;
 }
@@ -36,7 +41,26 @@
 }
 
 /* NAV-BAR */
-.pixel47 {
+.NavBar {
+  /* z-index: 1; */
+  width: auto;
+  height: 31px;
+  position: absolute;
+  background: none;
+  left: 62px;
+  top: 31px;
+}
+.option-experience {
+  display: flex;
+  list-style: none;
+  width: 154px;
+  height: 30px;
+  background: #341174;
+  margin: 0 32px 0 0;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+} /* .pixel47 {
   font-size: 1em;
   grid-column: span 4;
 }
@@ -48,11 +72,11 @@
 }
 .pixel53 {
   grid-column: span 4;
-}
+} */
 /* NAV-BAR */
 
-/* TITLES-HERO */
-.pixel210 {
+/* INFO-HERO */
+/* .pixel210 {
   grid-row: span 3;
   grid-column: span 10;
   font-size: 2.5em;
@@ -73,7 +97,14 @@
   grid-row: span 3;
   grid-column: span 11;
   font-size: 2.5em;
-}
+} */
+
+/* .title-presentation {
+  z-index: 2;
+  width: 309px;
+  height: 309px;
+  position: absolute;
+} */
 /* TITLES-HERO */
 /* .pixel4 {
   grid-column: span 2;
@@ -81,3 +112,29 @@
 .pixel6 {
   grid-column: span 2;
 } */
+
+.info-hero {
+  width: auto;
+  height: 372px;
+  background: none;
+  position: absolute;
+  left: 31px;
+  top: 155px;
+}
+.description-box {
+  width: 309px;
+  height: 92px;
+}
+.name-box {
+  width: 712px;
+  height: 92px;
+}
+.job-box {
+  width: 836px;
+  height: 92px;
+}
+.country-box {
+  width: 340px;
+  height: 92px;
+}
+/* INFO-HERO */

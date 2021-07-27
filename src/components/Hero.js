@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/index.css';
 import '../styles/App.css';
+import NavBar from './NavBar';
 
 function section1() {
   return (
@@ -52,21 +53,13 @@ function section1() {
         <div className="box pixel44"></div>
         <div className="box pixel45"></div>
         <div className="box pixel46"></div>
-        <div className="box pixel47">
-          <h3>EXPERIENCIA</h3>
-        </div>
+        <div className="box pixel47"></div>
         <div className="box pixel48"></div>
-        <div className="box pixel49">
-          <h3>¿QUIEN SOY?</h3>
-        </div>
+        <div className="box pixel49"></div>
         <div className="box pixel50"></div>
-        <div className="box pixel51">
-          <h3>PROYECTOS</h3>
-        </div>
+        <div className="box pixel51"></div>
         <div className="box pixel52"></div>
-        <div className="box pixel53">
-          <h3>CONTACTO</h3>
-        </div>
+        <div className="box pixel53"></div>
         <div className="box pixel54"></div>
         <div className="box pixel55"></div>
         <div className="box pixel56"></div>
@@ -223,9 +216,7 @@ function section1() {
         <div className="box pixel207"></div>
         <div className="box pixel208"></div>
         <div className="box pixel209"></div>
-        <div className="box pixel210">
-          <h1>Hola soy</h1>
-        </div>
+        <div className="box pixel210 title-presentation"></div>
         <div className="box pixel211"></div>
         <div className="box pixel212"></div>
         <div className="box pixel213"></div>
@@ -328,9 +319,7 @@ function section1() {
         <div className="box pixel310"></div>
         <div className="box pixel311"></div>
         <div className="box pixel312"></div>
-        <div className="box pixel313">
-          <h1>EMILIANO FARIAS</h1>
-        </div>
+        <div className="box pixel313 title-name"></div>
         <div className="box pixel314"></div>
         <div className="box pixel315"></div>
         <div className="box pixel316"></div>
@@ -394,9 +383,7 @@ function section1() {
         <div className="box pixel374"></div>
         <div className="box pixel375"></div>
         <div className="box pixel376"></div>
-        <div className="box pixel377">
-          <p>Desarrollador frontend</p>
-        </div>
+        <div className="box pixel377 title-job"></div>
         <div className="box pixel378"></div>
         <div className="box pixel379"></div>
         <div className="box pixel380"></div>
@@ -448,9 +435,7 @@ function section1() {
         <div className="box pixel426"></div>
         <div className="box pixel427"></div>
         <div className="box pixel428"></div>
-        <div className="box pixel429">
-          <h1>ARGENTINO</h1>
-        </div>
+        <div className="box pixel429 title-nacionality"></div>
         <div className="box pixel430"></div>
         <div className="box pixel431"></div>
         <div className="box pixel432"></div>
@@ -1022,6 +1007,13 @@ function section1() {
         <div className="box pixel998"></div>
         <div className="box pixel999"></div>
         <div className="box pixel1000"></div>
+        <NavBar />
+        <div className="info-hero">
+          <div className="description-box box "></div>
+          <div className="name-box box"></div>
+          <div className="job-box box"></div>
+          <div className="country-box box"></div>
+        </div>
       </section>
     </React.Fragment>
   );
