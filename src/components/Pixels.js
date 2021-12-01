@@ -1,5 +1,3 @@
-const section1 = document.querySelector('.Pixels');
-
 export const pixel = {
   pixelX: function (number) {
     return number * 31;

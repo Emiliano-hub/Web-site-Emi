@@ -1,69 +1,47 @@
-import React from 'react';
+import React, { Component, createRef } from 'react';
 import '../styles/index.css';
-import '../styles/App.css';
+import '../styles/App.scss';
 import NavBar from './NavBar';
-import { pixel } from './Pixels';
+import Header from './Header';
+import Mario from '../images/mario.png';
 
-export default function section1() {
-  // window.addEventListener('resize', changeScreen);
-  // function changeScreen() {
-  //   if (window.screen.width < 1024) alert('Pequeña');
-  //   else if (window.screen.width < 1280) alert('Mediana');
-  //   else alert('Grande');
-  // }
-  // if (window.screen.width < 1024) alert('Pequeña');
-  // else if (window.screen.width < 1280) alert('Mediana');
-  // else alert('Grande');
-
-  return (
-    <React.Fragment>
-      <section className="Sections-pixeles">
-        <NavBar />
-        <div
-          className="description-box box"
-          style={{
-            left: pixel.pixelX(2),
-            top: pixel.pixelY(6),
-            width: pixel.pixelWidth(10),
-            height: pixel.pixelHeight(3),
-          }}
-        >
-          <p>Hola soy </p>
-        </div>
-        <div
-          className="name-box box"
-          style={{
-            left: pixel.pixelX(2),
-            top: pixel.pixelY(9),
-            width: pixel.pixelWidth(23),
-            height: pixel.pixelHeight(3),
-          }}
-        >
-          <p>EMILIANO FARIAS</p>
-        </div>
-        <div
-          className="job-box box"
-          style={{
-            left: pixel.pixelX(2),
-            top: pixel.pixelY(12),
-            width: pixel.pixelWidth(27),
-            height: pixel.pixelHeight(3),
-          }}
-        >
-          <p>Desarrollador frontend</p>
-        </div>
-        <div
-          className="country-box box"
-          style={{
-            left: pixel.pixelX(2),
-            top: pixel.pixelY(15),
-            width: pixel.pixelWidth(11),
-            height: pixel.pixelHeight(3),
-          }}
-        >
-          <p>ARGENTINO</p>
-        </div>
-      </section>
-    </React.Fragment>
-  );
+export default class section1 extends Component {
+  constructor(props) {
+    super(props);
+    this.descriptionHero = createRef();
+  }
+  render() {
+    let descriptionHero = this.descriptionHero;
+    this.handleClick = (e) => {
+      console.log(descriptionHero.current);
+    };
+    return (
+      <React.Fragment>
+        <section className="Sections-pixeles Section1">
+          <Header />
+          <NavBar />
+          <div
+            className="description-box box"
+            ref={this.descriptionHero}
+            onClick={this.handleClick}
+            style={this.descriptionBox}
+          >
+            <p>Hola soy </p>
+          </div>
+          <div className="name-box box">
+            <p>EMILIANO FARIAS</p>
+          </div>
+          <div className="job-box box">
+            <p>Desarrollador frontend</p>
+          </div>
+          <div className="country-box box">
+            <p>ARGENTINO</p>
+          </div>
+          <figure className="imgHeroContainer">
+            <img src={Mario} alt="test" />
+          </figure>
+        </section>
+      </React.Fragment>
+    );
+  }
 }

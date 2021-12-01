@@ -29,13 +29,7 @@
   </head>
   <body id="body">
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div class="testDiv" id="testDiv">
-      <section class="Pixels" id="section1"></section>
-      <section class="Pixels" id="section2"></section>
-      <section class="Pixels" id="section3"></section>
-      <section class="Pixels" id="section4"></section>
-      <div id="root"></div>
-    </div>
+    <div id="root"></div>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
@@ -50,37 +44,9 @@
       type="text/javascript"
       src="../src/components/CreatePixel.js"
     ></script> -->
-    <script>
-      let elements = [];
-      let section1 = document.getElementById('section1');
-      let section2 = document.getElementById('section2');
-      let section3 = document.getElementById('section3');
-      let section4 = document.getElementById('section4');
-
-      // const section2 = document.getElementById('section2');
-      // const section3 = document.getElementById('section3');
-      // const section4 = document.getElementById('section4');
-
-      let screeWidth = section1.offsetWidth;
-      let screeHeight = section1.offsetHeight;
-      console.log(screeHeight);
-      console.log(screeWidth);
-
-      // let areaScreen = screeWidth * screeHeight;
-      // let areaPixel = 30 * 30;
-      // let numberPixels = areaScreen / areaPixel;
-
-      function createPixels(selector, box) {
-        for (let i = 0; i < 1012; i++) {
-          (elements[i] = document.createElement('div')),
-            elements[i].classList.add(box),
-            selector.appendChild(elements[i]);
-        }
-      }
-      createPixels(section1, 'box');
-      createPixels(section2, 'box1');
-      createPixels(section3, 'box2');
-      createPixels(section4, 'box3');
-    </script>
+    <script
+      src="https://kit.fontawesome.com/93ae6403ae.js"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>

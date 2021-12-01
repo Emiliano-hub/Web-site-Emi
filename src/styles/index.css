@@ -5,7 +5,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-x: hidden;
   background: black;
 }
 
@@ -32,4 +31,71 @@ code {
 @font-face {
   font-family: IBMPlexMono-Regular;
   src: url(./fonts/IBM/IBMPlexMono-Regular.ttf);
+}
+
+.App {
+  text-align: center;
+}
+#root {
+  position: absolute;
+  top: 0;
+}
+.Sections-pixeles {
+  color: white;
+  font-family: pixelFont2;
+  z-index: 1;
+  position: relative;
+}
+.box {
+  display: flex;
+  background: #341174;
+}
+.box:hover {
+  transition: all 0.1s;
+  background: #4300fb;
+}
+
+.box1 {
+  display: flex;
+  background: #95a609;
+}
+.box1:hover {
+  transition: all 0.1s;
+  background: #4300fb;
+}
+
+.box2 {
+  display: flex;
+  background: #aa7d09;
+}
+.box2:hover {
+  transition: all 0.1s;
+  background: #4300fb;
+}
+
+.box3 {
+  display: flex;
+  background: #cfdf46;
+}
+.box3:hover {
+  transition: all 0.1s;
+  background: #4300fb;
+}
+
+.box4 {
+  display: flex;
+  background: #140432;
+}
+
+.box h3 {
+  margin: auto;
+}
+.box h2 {
+  margin: auto;
+}
+.box h1 {
+  margin: auto auto auto 10px;
+}
+.box p {
+  margin: auto auto auto 10px;
 }

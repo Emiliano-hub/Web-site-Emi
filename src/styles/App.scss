@@ -1,0 +1,361 @@
+@import 'Pixels.scss';
+/* NAV-BAR */
+.NavBar {
+  width: auto;
+  position: absolute;
+  background: none;
+}
+.option-experience {
+  display: flex;
+  list-style: none;
+  background: #341174;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+}
+/* NAV-BAR */
+
+/* -----------INFO-HERO----------- */
+.Section1 {
+  background: url(../images/Fondo1.svg);
+  width: 100vw;
+  height: 620px;
+  position: relative;
+  font-size: 4em;
+}
+.description-box {
+  position: absolute;
+  margin-bottom: 1px;
+  width: pixelWidth(11);
+  height: pixelHeight(3);
+  left: pixelX(1);
+  top: pixelY(6);
+}
+.name-box {
+  position: absolute;
+  color: #95a609;
+  margin-bottom: 1px;
+  width: pixelWidth(19);
+  height: pixelHeight(3);
+  left: pixelX(1);
+  top: pixelY(9);
+}
+.job-box {
+  position: absolute;
+  color: #cf9c1b;
+  margin-bottom: 1px;
+  width: pixelWidth(27);
+  height: pixelHeight(3);
+  left: pixelX(1);
+  top: pixelY(12);
+}
+.country-box {
+  position: absolute;
+  margin-bottom: 1px;
+  width: pixelWidth(12);
+  height: pixelHeight(3);
+  left: pixelX(1);
+  top: pixelY(15);
+}
+.imgHeroContainer {
+  position: absolute;
+  width: 25%;
+  height: 70%;
+  left: pixelX(30);
+  top: pixelY(2);
+  margin: 0;
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+.burguer-button {
+  display: none;
+}
+/* -----------INFO-HERO----------- */
+
+/* -------------ABOUT-ME------------- */
+.Section2 {
+  background: url(../images/Fondo2.svg);
+  width: 100vw;
+  height: 620px;
+  position: relative;
+  z-index: 0;
+}
+.AboutMe-info {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  left: pixelX(3);
+  top: pixelY(3);
+  width: pixelWidth(16);
+  height: pixelHeight(15);
+  h1 {
+    font-size: 4em;
+    color: #840088;
+    margin: 0.5em;
+  }
+  p {
+    font-family: IBMPlexMono-Regular;
+    font-size: 1.5em;
+  }
+}
+.imgAboutMe-container {
+  position: absolute;
+  width: 25%;
+  left: pixelX(25);
+  bottom: pixelY(0) - 1;
+  margin: 0;
+  img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+/* -------------ABOUT-ME------------- */
+
+/* -------------SKILS------------- */
+.Section3 {
+  background: url(../images/Fondo3.svg);
+  // background: url(../images/Fondo3.png);
+  width: 100vw;
+  height: 99vh;
+  z-index: 0;
+}
+.Skils-info {
+  position: absolute;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  left: pixelX(3);
+  top: pixelY(3);
+  width: pixelWidth(16);
+  height: pixelHeight(15);
+  h1 {
+    font-size: 4em;
+    margin: 0.5em 0;
+    color: #140432;
+  }
+  p {
+    font-family: IBMPlexMono-Regular;
+    font-size: 1.5em;
+  }
+}
+.Skils-container {
+  display: grid;
+  position: absolute;
+  width: pixelWidth(11);
+  left: pixelX(24);
+  top: pixelY(5);
+  grid-template-rows: repeat(3, 1fr);
+  grid-auto-flow: column;
+  grid-gap: pixelWidth(1) + 2;
+}
+.BoxTech {
+  width: pixelWidth(3);
+  height: pixelHeight(3);
+  background: #4300fb;
+}
+.Icon-container {
+  display: flex;
+  margin: auto;
+  img {
+    margin: auto;
+    transition: 0.3s;
+    &:hover {
+      width: 5.5em;
+      height: 5.5em;
+    }
+  }
+}
+/* -------------SKILS------------- */
+
+@media (max-width: 1024px) {
+  // -----HERO-----
+  .Section1 {
+    width: 100vw;
+    font-size: 3em;
+  }
+  .description-box {
+    width: pixelWidth(8);
+    height: pixelHeight(3);
+    left: pixelX(1);
+    top: pixelY(6);
+  }
+  .name-box {
+    width: pixelWidth(15);
+    height: pixelHeight(3);
+    left: pixelX(1);
+    top: pixelY(9);
+  }
+  .job-box {
+    width: pixelWidth(21);
+    height: pixelHeight(3);
+    left: pixelX(1);
+    top: pixelY(12);
+  }
+  .country-box {
+    width: pixelWidth(9);
+    height: pixelHeight(3);
+    left: pixelX(1);
+    top: pixelY(15);
+  }
+  .imgHeroContainer {
+    width: 25%;
+    height: 70%;
+    left: pixelX(23);
+    top: pixelY(3);
+    margin: 0;
+  }
+  // -----HERO-----
+
+  // -----ABOUT-ME-----
+  .Section2 {
+    width: 100vw;
+  }
+  .imgAboutMe-container {
+    width: 35%;
+    left: pixelX(20);
+  }
+  .AboutMe-info {
+    width: pixelWidth(14);
+    height: pixelHeight(14);
+    h1 {
+      font-size: 3em;
+      color: #840088;
+      margin: 0.5em;
+    }
+    p {
+      font-family: IBMPlexMono-Regular;
+      font-size: 1.25em;
+    }
+  }
+  // -----ABOUT-ME----
+
+  // -----SKILL-----
+  .Section3 {
+    width: 100vw;
+  }
+  .Skils-container {
+    left: pixelX(20);
+    top: pixelY(5);
+  }
+  // -----SKILL-----
+}
+@media (max-width: 768px) {
+  // -----HEADER-----
+  .burguer-button {
+    display: flex;
+    position: fixed;
+    left: pixelX(0.5);
+    top: pixelY(0.5);
+    width: pixelWidth(1);
+    height: pixelHeight(1);
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+  }
+  // -----HEADER-----
+
+  // -----HERO-----
+  .Section1 {
+    width: 100vw;
+    font-size: 3em;
+    display: flex;
+  }
+  .NavBar {
+    display: none;
+    width: auto;
+    position: absolute;
+    background: none;
+  }
+  .description-box {
+    width: pixelWidth(8);
+    height: pixelHeight(2);
+    left: pixelX(8);
+    top: pixelY(1);
+  }
+  .name-box {
+    width: pixelWidth(15);
+    height: pixelHeight(2);
+    left: pixelX(4);
+    top: pixelY(3);
+  }
+  .job-box {
+    width: pixelWidth(21);
+    height: pixelHeight(2);
+    left: pixelX(1);
+    top: pixelY(5);
+  }
+  .country-box {
+    width: pixelWidth(9);
+    height: pixelHeight(2);
+    left: pixelX(7);
+    top: pixelY(7);
+  }
+  .imgHeroContainer {
+    width: 25%;
+    height: pixelHeight(10);
+    left: pixelX(10);
+    top: pixelY(9);
+    margin: 0;
+  }
+
+  // -----HERO-----
+
+  // -----ABOUT-ME-----
+
+  .Section2 {
+    width: 100vw;
+  }
+  .AboutMe-info {
+    left: pixelX(3);
+    top: pixelY(1);
+    width: pixelWidth(18);
+    height: pixelHeight(8);
+    p {
+      font-family: IBMPlexMono-Regular;
+      margin: 0;
+      font-size: 1.1em;
+    }
+  }
+  .imgAboutMe-container {
+    width: 28%;
+    left: pixelX(8.25);
+  }
+  // -----ABOUT-ME-----
+
+  // -----SKILL-----
+  .Section3 {
+    width: 100vw;
+  }
+
+  // -----SKILL-----
+}
+
+// -----FOOTER-----
+footer {
+  background: url(../images/Fondo-footer.svg);
+  width: auto;
+  height: auto;
+}
+.Title-contact {
+  width: pixelWidth(7);
+  height: pixelHeight(2);
+}
+.contact-Option {
+  width: pixelWidth(14);
+  height: pixelHeight(3);
+}
+.Title-socialMedias {
+  width: pixelWidth(13);
+  height: pixelHeight(2);
+}
+.SocialMedias {
+  width: pixelWidth(14);
+  height: pixelHeight(3);
+}
+
+// -----FOOTER-----

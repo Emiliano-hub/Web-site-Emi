@@ -8,7 +8,7 @@ function NavBar() {
       <div
         className="option-experience NavBar box"
         style={{
-          left: pixel.pixelX(2),
+          left: pixel.pixelX(1),
           top: pixel.pixelY(1),
           width: pixel.pixelWidth(5),
           height: pixel.pixelHeight(1),
@@ -21,7 +21,7 @@ function NavBar() {
       <div
         className="option-experience NavBar box"
         style={{
-          left: pixel.pixelX(8),
+          left: pixel.pixelX(7),
           top: pixel.pixelY(1),
           width: pixel.pixelWidth(5),
           height: pixel.pixelHeight(1),
@@ -34,7 +34,7 @@ function NavBar() {
       <div
         className="option-experience NavBar box"
         style={{
-          left: pixel.pixelX(14),
+          left: pixel.pixelX(13),
           top: pixel.pixelY(1),
           width: pixel.pixelWidth(4),
           height: pixel.pixelHeight(1),
@@ -47,7 +47,7 @@ function NavBar() {
       <div
         className="option-experience NavBar box"
         style={{
-          left: pixel.pixelX(19),
+          left: pixel.pixelX(18),
           top: pixel.pixelY(1),
           width: pixel.pixelWidth(4),
           height: pixel.pixelHeight(1),
