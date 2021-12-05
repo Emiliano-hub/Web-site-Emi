@@ -118,9 +118,8 @@
 /* -------------SKILS------------- */
 .Section3 {
   background: url(../images/Fondo3.svg);
-  // background: url(../images/Fondo3.png);
   width: 100vw;
-  height: 99vh;
+  height: 620px;
   z-index: 0;
 }
 .Skils-info {
@@ -338,24 +337,72 @@
 // -----FOOTER-----
 footer {
   background: url(../images/Fondo-footer.svg);
+  width: 100vw;
+  height: 250px;
+  position: relative;
+  color: white;
+  font-family: pixelmix;
+}
+.Contact-container {
+  display: grid;
+  position: absolute;
   width: auto;
   height: auto;
+  left: pixelX(2);
+  top: pixelY(1);
+  grid-gap: 1px;
+}
+.SocialMedias-container {
+  display: grid;
+  position: absolute;
+  width: auto;
+  height: auto;
+  left: pixelX(20);
+  top: pixelY(1);
+  grid-gap: 1px;
 }
 .Title-contact {
+  color: #00d2ec;
   width: pixelWidth(7);
   height: pixelHeight(2);
 }
 .contact-Option {
-  width: pixelWidth(14);
+  width: pixelWidth(16);
   height: pixelHeight(3);
+  align-items: center;
+  font-size: 1.2em;
+  a {
+    text-decoration: none;
+    color: #03fa93;
+    font-size: 15px;
+    padding: 10px 15px;
+    border: solid white;
+    border-radius: 5px;
+    margin: 0 0 0 10px;
+    transition: all 0.5s;
+    &:hover {
+      border-color: rgb(70, 70, 70);
+      font-size: 18px;
+    }
+  }
 }
 .Title-socialMedias {
-  width: pixelWidth(13);
+  color: #00d2ec;
+  width: pixelWidth(17);
   height: pixelHeight(2);
 }
 .SocialMedias {
-  width: pixelWidth(14);
+  width: pixelWidth(15);
   height: pixelHeight(3);
+  justify-content: space-around;
+  align-items: center;
+  a {
+    width: 60px;
+    height: 60px;
+    img {
+      width: 100%;
+    }
+  }
 }
 
 // -----FOOTER-----

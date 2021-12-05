@@ -1,141 +1,282 @@
-<svg id="Componente_15_1" data-name="Componente 15 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1363" height="31" viewBox="0 0 1363 31">
+<svg id="Componente_14_2" data-name="Componente 14 – 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1364" height="31" viewBox="0 0 1364 31">
   <defs>
     <clipPath id="clip-path">
       <rect width="1363" height="31" fill="none"/>
     </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="1364" height="31" fill="none"/>
+    </clipPath>
   </defs>
-  <g id="Cuadrícula_de_repetición_4" data-name="Cuadrícula de repetición 4" clip-path="url(#clip-path)">
-    <g transform="translate(-3305 -3465)">
-      <rect id="Rectángulo_49" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+  <g id="Componente_15_1" data-name="Componente 15 – 1">
+    <g id="Cuadrícula_de_repetición_4" data-name="Cuadrícula de repetición 4" clip-path="url(#clip-path)">
+      <g transform="translate(-3305 -3465)">
+        <rect id="Rectángulo_49" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3274 -3465)">
+        <rect id="Rectángulo_49-2" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3243 -3465)">
+        <rect id="Rectángulo_49-3" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3212 -3465)">
+        <rect id="Rectángulo_49-4" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3181 -3465)">
+        <rect id="Rectángulo_49-5" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3150 -3465)">
+        <rect id="Rectángulo_49-6" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3119 -3465)">
+        <rect id="Rectángulo_49-7" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3088 -3465)">
+        <rect id="Rectángulo_49-8" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3057 -3465)">
+        <rect id="Rectángulo_49-9" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3026 -3465)">
+        <rect id="Rectángulo_49-10" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2995 -3465)">
+        <rect id="Rectángulo_49-11" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2964 -3465)">
+        <rect id="Rectángulo_49-12" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2933 -3465)">
+        <rect id="Rectángulo_49-13" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2902 -3465)">
+        <rect id="Rectángulo_49-14" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2871 -3465)">
+        <rect id="Rectángulo_49-15" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2840 -3465)">
+        <rect id="Rectángulo_49-16" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2809 -3465)">
+        <rect id="Rectángulo_49-17" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2778 -3465)">
+        <rect id="Rectángulo_49-18" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2747 -3465)">
+        <rect id="Rectángulo_49-19" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2716 -3465)">
+        <rect id="Rectángulo_49-20" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2685 -3465)">
+        <rect id="Rectángulo_49-21" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2654 -3465)">
+        <rect id="Rectángulo_49-22" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2623 -3465)">
+        <rect id="Rectángulo_49-23" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2592 -3465)">
+        <rect id="Rectángulo_49-24" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2561 -3465)">
+        <rect id="Rectángulo_49-25" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2530 -3465)">
+        <rect id="Rectángulo_49-26" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2499 -3465)">
+        <rect id="Rectángulo_49-27" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2468 -3465)">
+        <rect id="Rectángulo_49-28" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2437 -3465)">
+        <rect id="Rectángulo_49-29" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2406 -3465)">
+        <rect id="Rectángulo_49-30" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2375 -3465)">
+        <rect id="Rectángulo_49-31" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2344 -3465)">
+        <rect id="Rectángulo_49-32" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2313 -3465)">
+        <rect id="Rectángulo_49-33" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2282 -3465)">
+        <rect id="Rectángulo_49-34" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2251 -3465)">
+        <rect id="Rectángulo_49-35" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2220 -3465)">
+        <rect id="Rectángulo_49-36" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2189 -3465)">
+        <rect id="Rectángulo_49-37" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2158 -3465)">
+        <rect id="Rectángulo_49-38" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2127 -3465)">
+        <rect id="Rectángulo_49-39" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2096 -3465)">
+        <rect id="Rectángulo_49-40" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2065 -3465)">
+        <rect id="Rectángulo_49-41" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2034 -3465)">
+        <rect id="Rectángulo_49-42" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2003 -3465)">
+        <rect id="Rectángulo_49-43" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-1972 -3465)">
+        <rect id="Rectángulo_49-44" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
     </g>
-    <g transform="translate(-3274 -3465)">
-      <rect id="Rectángulo_49-2" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-3243 -3465)">
-      <rect id="Rectángulo_49-3" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-3212 -3465)">
-      <rect id="Rectángulo_49-4" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-3181 -3465)">
-      <rect id="Rectángulo_49-5" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-3150 -3465)">
-      <rect id="Rectángulo_49-6" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-3119 -3465)">
-      <rect id="Rectángulo_49-7" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-3088 -3465)">
-      <rect id="Rectángulo_49-8" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-3057 -3465)">
-      <rect id="Rectángulo_49-9" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-3026 -3465)">
-      <rect id="Rectángulo_49-10" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2995 -3465)">
-      <rect id="Rectángulo_49-11" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2964 -3465)">
-      <rect id="Rectángulo_49-12" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2933 -3465)">
-      <rect id="Rectángulo_49-13" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2902 -3465)">
-      <rect id="Rectángulo_49-14" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2871 -3465)">
-      <rect id="Rectángulo_49-15" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2840 -3465)">
-      <rect id="Rectángulo_49-16" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2809 -3465)">
-      <rect id="Rectángulo_49-17" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2778 -3465)">
-      <rect id="Rectángulo_49-18" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2747 -3465)">
-      <rect id="Rectángulo_49-19" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2716 -3465)">
-      <rect id="Rectángulo_49-20" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2685 -3465)">
-      <rect id="Rectángulo_49-21" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2654 -3465)">
-      <rect id="Rectángulo_49-22" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2623 -3465)">
-      <rect id="Rectángulo_49-23" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2592 -3465)">
-      <rect id="Rectángulo_49-24" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2561 -3465)">
-      <rect id="Rectángulo_49-25" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2530 -3465)">
-      <rect id="Rectángulo_49-26" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2499 -3465)">
-      <rect id="Rectángulo_49-27" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2468 -3465)">
-      <rect id="Rectángulo_49-28" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2437 -3465)">
-      <rect id="Rectángulo_49-29" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2406 -3465)">
-      <rect id="Rectángulo_49-30" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2375 -3465)">
-      <rect id="Rectángulo_49-31" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2344 -3465)">
-      <rect id="Rectángulo_49-32" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2313 -3465)">
-      <rect id="Rectángulo_49-33" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2282 -3465)">
-      <rect id="Rectángulo_49-34" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2251 -3465)">
-      <rect id="Rectángulo_49-35" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2220 -3465)">
-      <rect id="Rectángulo_49-36" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2189 -3465)">
-      <rect id="Rectángulo_49-37" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2158 -3465)">
-      <rect id="Rectángulo_49-38" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2127 -3465)">
-      <rect id="Rectángulo_49-39" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2096 -3465)">
-      <rect id="Rectángulo_49-40" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2065 -3465)">
-      <rect id="Rectángulo_49-41" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2034 -3465)">
-      <rect id="Rectángulo_49-42" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-2003 -3465)">
-      <rect id="Rectángulo_49-43" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
-    </g>
-    <g transform="translate(-1972 -3465)">
-      <rect id="Rectángulo_49-44" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+  </g>
+  <g id="Componente_15_2" data-name="Componente 15 – 2">
+    <g id="Cuadrícula_de_repetición_4-2" data-name="Cuadrícula de repetición 4" clip-path="url(#clip-path-2)">
+      <g transform="translate(-3305 -3465)">
+        <rect id="Rectángulo_49-45" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3274 -3465)">
+        <rect id="Rectángulo_49-46" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3243 -3465)">
+        <rect id="Rectángulo_49-47" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3212 -3465)">
+        <rect id="Rectángulo_49-48" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3181 -3465)">
+        <rect id="Rectángulo_49-49" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3150 -3465)">
+        <rect id="Rectángulo_49-50" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3119 -3465)">
+        <rect id="Rectángulo_49-51" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3088 -3465)">
+        <rect id="Rectángulo_49-52" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3057 -3465)">
+        <rect id="Rectángulo_49-53" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-3026 -3465)">
+        <rect id="Rectángulo_49-54" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2995 -3465)">
+        <rect id="Rectángulo_49-55" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2964 -3465)">
+        <rect id="Rectángulo_49-56" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2933 -3465)">
+        <rect id="Rectángulo_49-57" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2902 -3465)">
+        <rect id="Rectángulo_49-58" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2871 -3465)">
+        <rect id="Rectángulo_49-59" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2840 -3465)">
+        <rect id="Rectángulo_49-60" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2809 -3465)">
+        <rect id="Rectángulo_49-61" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2778 -3465)">
+        <rect id="Rectángulo_49-62" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2747 -3465)">
+        <rect id="Rectángulo_49-63" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2716 -3465)">
+        <rect id="Rectángulo_49-64" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2685 -3465)">
+        <rect id="Rectángulo_49-65" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2654 -3465)">
+        <rect id="Rectángulo_49-66" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2623 -3465)">
+        <rect id="Rectángulo_49-67" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2592 -3465)">
+        <rect id="Rectángulo_49-68" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2561 -3465)">
+        <rect id="Rectángulo_49-69" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2530 -3465)">
+        <rect id="Rectángulo_49-70" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2499 -3465)">
+        <rect id="Rectángulo_49-71" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2468 -3465)">
+        <rect id="Rectángulo_49-72" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2437 -3465)">
+        <rect id="Rectángulo_49-73" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2406 -3465)">
+        <rect id="Rectángulo_49-74" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2375 -3465)">
+        <rect id="Rectángulo_49-75" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2344 -3465)">
+        <rect id="Rectángulo_49-76" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2313 -3465)">
+        <rect id="Rectángulo_49-77" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2282 -3465)">
+        <rect id="Rectángulo_49-78" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2251 -3465)">
+        <rect id="Rectángulo_49-79" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2220 -3465)">
+        <rect id="Rectángulo_49-80" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2189 -3465)">
+        <rect id="Rectángulo_49-81" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2158 -3465)">
+        <rect id="Rectángulo_49-82" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2127 -3465)">
+        <rect id="Rectángulo_49-83" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2096 -3465)">
+        <rect id="Rectángulo_49-84" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2065 -3465)">
+        <rect id="Rectángulo_49-85" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2034 -3465)">
+        <rect id="Rectángulo_49-86" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-2003 -3465)">
+        <rect id="Rectángulo_49-87" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
+      <g transform="translate(-1972 -3465)">
+        <rect id="Rectángulo_49-88" data-name="Rectángulo 49" width="30" height="30" transform="translate(3305 3465)" fill="#aa7d09"/>
+      </g>
     </g>
   </g>
 </svg>
