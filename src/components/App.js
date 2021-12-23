@@ -4,6 +4,7 @@ import '../styles/App.scss';
 import Hero from './Hero';
 import AboutMe from './AboutMe';
 import Skils from './Skils';
+import Proyects from './Proyects';
 import Footer from './Footer.js';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <AboutMe />
       <Skils />
+      <Proyects />
       <Footer />
     </React.Fragment>
   );

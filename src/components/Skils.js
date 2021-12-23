@@ -16,10 +16,9 @@ export default function Skils() {
         <article className="Skils-info box2">
           <h1>MIS SKILS TECNOLOGICAS</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            aperiam veniam tempora magni saepe quia fuga repudiandae deserunt
-            dolores quae, blanditiis repellat sint debitis nobis maiores fugit
-            inventore aut ut.
+            En lo que va mi camino de desarrollador e logrado aprender varias
+            tecnologías que me han sido utiles para la realización de mis
+            proyectos (planeo aprender muchas mas).
           </p>
         </article>
         <div className="Skils-container">
